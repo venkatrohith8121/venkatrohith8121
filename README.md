@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @venkatrohith8121
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning python fullstack
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me venkatrohithkandloori@gmail.com
 - 😄 Pronouns: He
 
